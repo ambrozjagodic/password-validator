@@ -7,7 +7,7 @@ The **PasswordAttribute** is a .NET validation attribute that allows you to vali
 To use the PasswordAttribute in your .NET Core project, you can install it via NuGet Package Manager:
 
 ```sh
-dotnet add package DoesntExistYet
+dotnet add package PasswordValidator
 ```
 
 ## Usage
